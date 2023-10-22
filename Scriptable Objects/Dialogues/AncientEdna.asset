@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9109a43221f74f45b5094107bb5eac4, type: 3}
+  m_Name: AncientEdna
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: 
+    line: (This woman appears to be crocheting a suspiciously net like object)
+    choices: []
+    flags: []
+    prerequisites: []
+  - speaker: 
+    line: (She hands you a cookie before you get the chance to respond.)
+    choices: []
+    flags: []
+    prerequisites: []
+  - speaker: Ancient Edna
+    line: "Awww, aren\u2019t you adorable? Go on and eat up, now. It\u2019s store-bought
+      with Grandma\u2019s love. "
+    choices: []
+    flags: []
+    prerequisites: []
+  - speaker: Ancient Edna
+    line: 'Welp, back to crocheting for little old granny. Yessiree. '
+    choices: []
+    flags: []
+    prerequisites: []
+  - speaker: Ancient Edna
+    line: "What\u2019s that? Oh, you want my crochet? To fight monsters in the ocean?
+      Oh children have such wild imaginations these days. "
+    choices: []
+    flags: []
+    prerequisites: []
+  - speaker: Ancient Edna
+    line: "It's made of fabric made of recycled materials so it shouldn\u2019t break
+      if there is, say, a giant trash monster that you may have to fight. "
+    choices: []
+    flags: []
+    prerequisites: []
+  - speaker: Ancient Edna
+    line: I have plenty more to make another one.
+    choices: []
+    flags: []
+    prerequisites: []
+  - speaker: 
+    line: (Obtained the crocheted net!)
+    choices: []
+    flags: []
+    prerequisites: []
+  flag: gotNet
